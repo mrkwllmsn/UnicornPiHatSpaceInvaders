@@ -38,4 +38,6 @@ Or this will make it sideways
 ```shell
 python ./spaceinvaders.py -90
 ```
+![Starting screen for space invaders](./assets/invader_img1.jpg)
+![Playing a game](./assets/invader_img2.jpg)
 
