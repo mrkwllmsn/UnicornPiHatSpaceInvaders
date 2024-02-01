@@ -41,3 +41,8 @@ python ./spaceinvaders.py -90
 ![Starting screen for space invaders](./assets/invader_img1.jpg)
 ![Playing a game](./assets/invader_img2.jpg)
 
+## Demo video 
+[YouTube video of it in action on a Unicorn HD 16x16 Hat, on Pi5 with NVME base and a HAT hacker Hat, all from Pimoroni ](https://www.youtube.com/watch?v=888B1unioTM)
+
+That's Pirate Monkey Robot Ninja to you. 
+
